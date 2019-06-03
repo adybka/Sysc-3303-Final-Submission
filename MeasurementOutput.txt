@@ -1,0 +1,41 @@
+***Elevator Request Time***
+Elevator Request 0: 145500
+Elevator Request 1: 115000
+Elevator Request 2: 106900
+Elevator Request 3: 164600
+Elevator Request 4: 68200
+Elevator Request 5: 24100
+Elevator Request 6: 34700
+Elevator Request 7: 25200
+Elevator Request 8: 26400
+Elevator Request 9: 25500
+Elevator Request 10: 95500
+Elevator Request 11: 30200
+Elevator Request 12: 35300
+Elevator Request 13: 18500
+Elevator Request 14: 16000
+Elevator Request 15: 15200
+Elevator Request 16: 15700
+Elevator Request 17: 111100
+Elevator Request 18: 20100
+Elevator Request 19: 462600
+Elevator Request 20: 99400
+Elevator Request 21: 67000
+Elevator Request 22: 61900
+Elevator Request 23: 11900
+Elevator Request 24: 25800
+Elevator Request 25: 22600
+Elevator Request 26: 170000
+
+Elevator Request Total Time: 2014900
+Elevator Request Median: 34700
+Elevator Request Mean: 74625
+
+
+***Floor Request Request Time***
+Request 0: 8920600
+Request 1: 184500
+Request 2: 178100
+Floor Request Total Time: 9283200
+Floor Request Median: 184500
+Floor Request Mean: 3094400
